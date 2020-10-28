@@ -27,6 +27,7 @@ if(ScoreDolphins>ScoreKoalas&&ScoreKoalas >=100)
 console.log('Dolphins win th etrohpy')
   }  
   else if(ScoreKoalas>ScoreDolphins&&ScoreKoalas>=100){
+
 console.log('koalas win the trophy')
 
   }
@@ -35,7 +36,7 @@ console.log('koalas win the trophy')
   }
   else {
 
-    console.log('no one wins the trophy')
+    console.log('no one win the trophy')
   }
 
 
