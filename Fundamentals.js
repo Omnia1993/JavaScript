@@ -35,7 +35,7 @@ console.log('koalas win the trophy')
       console.log('Both win the trophy !')
   }
   else {
-
+    
     console.log('no one win the trophy')
   }
 
